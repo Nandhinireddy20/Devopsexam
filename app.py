@@ -7,6 +7,6 @@ def home():
 		print("Form Data:", request.form)
 		print("New feature")
 		return "Registration successful!"
-	return render_template('form.html')
+	return render_template('register.html')
 if __name__ == '__main__':
 	app.run(debug=True)
