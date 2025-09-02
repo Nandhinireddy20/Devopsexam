@@ -1,4 +1,0 @@
-- [ ] Fix JavaScript validation: Create validateForm function with proper regex for username and phone
-- [ ] Fix label IDs to avoid duplicates
-- [ ] Attach validation to form onsubmit
-- [ ] Test the form submission
